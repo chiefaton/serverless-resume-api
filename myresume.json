@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "John Doe",
+    "name": "Manikandan Murugesan",
     "label": "Programmer",
     "image": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "url": "https://johndoe.com",
-    "summary": "A summary of John Doe…",
+    "email": "manikandanmdeveloper@hotmail.com",
+    "phone": "+91-9080164191",
+    "summary": "Worked as .NET developer for the past 3 years. I was worked on developing CRM, CMS application functionalities
+    as per the customer requirements",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "2/145/1, Senguttai Colony, Thirumalaipatty(PO)",
+      "postalCode": "637404",
+      "city": "Namakkal",
+      "countryCode": "IN",
+      "region": "India"
     },
     "profiles": [{
       "network": "Twitter",
@@ -21,11 +21,11 @@
     }]
   },
   "work": [{
-    "name": "Company",
-    "position": "President",
-    "url": "https://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
+    "name": "LTIMindTree",
+    "position": "Product Engineer",
+    "url": "https://www.ltimindtree.com/",
+    "startDate": "2021-12-10",
+    "endDate": "Still Working",
     "summary": "Description…",
     "highlights": [
       "Started the company"
@@ -44,8 +44,8 @@
   }],
   "education": [{
     "institution": "University",
-    "url": "https://institution.com/",
-    "area": "Software Development",
+    "url": "https://pec.paavai.edu.in/",
+    "area": "Computer Science and Engineering",
     "studyType": "Bachelor",
     "startDate": "2011-01-01",
     "endDate": "2013-01-01",
@@ -63,7 +63,7 @@
   "certificates": [{
     "name": "Certificate",
     "date": "2021-11-07",
-    "issuer": "Company",
+    "issuer": "Microsoft",
     "url": "https://certificate.com"
   }],
   "publications": [{
@@ -79,7 +79,13 @@
     "keywords": [
       "HTML",
       "CSS",
-      "JavaScript"
+      "JavaScript",
+      "ASP.NET",
+      "C#",
+      "DOTNET Core",
+      "MVC",
+      "MS SQL SERVER",
+      "Azure"
     ]
   }],
   "languages": [{
